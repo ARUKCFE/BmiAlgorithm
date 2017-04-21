@@ -5,7 +5,8 @@ This algorithm was created by Ruth Costello, School of Biological Sciences, The 
 
 # Introduction
 The BMI algorithm takes height and weight data from the additional file, cleans the height and weight data, calculates BMI and categorises BMI into the standard BMI categories. 
-Using the algorithm
+
+# Using the algorithm
 
 *	Open master_bmi.do
 * Specify paths to algorithm folder by updating macros “basedir”, “datadir”, “dodir”, “savedir” and “logdir” as indicated in the script. 
