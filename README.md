@@ -1,5 +1,5 @@
 # Body Mass Index algorithm (BmiAlgorithm)
-Defines body mass index (BMI) for patients of the UK Clinical Practice Research Data Link (CPRD) data, and categorises BMI into the World Health Organisation? (WHO) international classification of underweight, normal weight, overweight and obesity.[1]
+Defines body mass index (BMI) for patients of the UK Clinical Practice Research Data Link (CPRD) data, and categorises BMI into the World Health Organisation (WHO) international classification of underweight, normal weight, overweight and obesity.[1]
 
 This algorithm was created by Ruth Costello, School of Biological Sciences, The University of Manchester.
 
