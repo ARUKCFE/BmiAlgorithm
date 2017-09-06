@@ -37,7 +37,7 @@ The algorithm uses the following CPRD datasets:
 | 5_deriveBMI.do           | BMI is calculated using the standard formula of weight/height2. BMI is categorised using the standard World Health Organisation BMI categories. [1]                                                                                                                                                                                                                                                                                           |
 
 # Additional notes
-* •	The algorithm was developed under CPRD Gold Data Specification v1.5.
+* The algorithm was developed under CPRD Gold Data Specification v1.5.
 * The algorithm does not take into account follow-up dates, therefore the data will need to be trimmed to meet individual study dates after the algorithm is run.
 * The algorithm uses the standardised residuals method to remove within person outliers which was proposed by Welch et al, 2012.[2] 
 * Variable labels with (c) indicate a continuous variable.
