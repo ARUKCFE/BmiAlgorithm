@@ -1,7 +1,13 @@
 # Copyright
 
-BmiAlgorithm is Copyright (c) University of Manchester 2017. All rights reserved.
+BmiAlgorithm is Copyright (c) Arthritis Research UK Centre for Epidemiology, University of Manchester (2016-2018).
+This release of DrugPrep is made available under a
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+See LICENSE.md for details.
 
-# Disclaimer
+CITATION.md, LICENSE and COPYRIGHT.md files and copyright notices must remain intact if you share this code.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+**If you make use of this algorithm in your research, you must cite the code appropriately,
+following the instructions in CITATION.md.**
+
+

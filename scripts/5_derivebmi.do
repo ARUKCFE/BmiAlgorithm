@@ -1,5 +1,5 @@
 *=================================================================================
-* Copyright (c) University of Manchester 2017. All rights reserved.
+* Copyright (c) Arthritis Research UK Centre for Epidemiology, University of Manchester (2016-2018)
 *=========================================================================================
 * 5 Derive BMI  
 *=================================================================================

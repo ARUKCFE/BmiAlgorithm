@@ -1,10 +1,11 @@
 # Citing BmiAlgorithm
 
-If you have used BmiAlgorithm to prepare data supporting your publication:
+If you have used BmiAlgorithm to prepare data supporting your publication, please don't forget to cite the code and the associated paper:
 
-## GitHub Users
-Please visit the releases page of the BmiAlgorithm repo for instructions on how to cite the specific version of "BmiAlgorithm" that you have used.  
+** Please visit our Zenodo page for up-to-date citation instructions for the code:**
+https://doi.org/10.5281/zenodo.797044
+
+**Citation for the associated paper:**
 
 
-## Zenodo Users
-If you downloaded BmiAlgorithm from Zenodo, please consult the Zenodo entry or your download confirmation email for instructions on how to cite the specific version of "BmiAlgorithm" that you have used.  
+
