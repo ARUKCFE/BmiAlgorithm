@@ -30,7 +30,7 @@ drop data3 data4 data5 data6 data7
 
 * Generates pracid from patid
 tostring patid, generate(str_patid)
-gen str_pracid = substr(str_patid,-3,3)
+gen str_pracid = substr(str_patid,-5,5)
 destring str_pracid, gen(pracid)
 drop str_pracid str_patid
 
